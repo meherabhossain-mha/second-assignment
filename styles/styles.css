@@ -186,6 +186,7 @@ flex-direction: row;
 justify-content: center;
 align-items: center;
 gap: 180px ;
+padding-bottom: 120px;
 
 }
 .about-digit .letter h1{
@@ -224,7 +225,7 @@ text-align: center;
 text-transform: capitalize;
 }
 #features{
-    background-color: #1A0B2E;
+     background: rgba(35, 14, 61, 1);
     padding: 50px; 
     color: white;
 }
