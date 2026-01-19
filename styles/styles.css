@@ -289,13 +289,95 @@ background: rgba(53, 17, 101, 0.4);
 .card-tall {
   grid-row: span 2; 
 }
+.card-tall .c1{
+font-style: Bold;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+text-align: left;
+text-transform: capitalize;
+padding-bottom: 16px;
+padding-top: 16px;
+}
+.card-tall .p1{
+font-style: Regular;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
 
+}
 .card-wide {
   grid-column: span 2; 
 }
-
+.card-wide .c2{
+font-style: Bold;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+text-align: left;
+text-transform: capitalize;
+padding-bottom: 16px;
+padding-top: 16px;
+}
+.card-wide .p2{
+    font-style: Regular;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
 .card-medium {
   grid-column: span 2; 
+}
+.card-medium .c3{
+    font-style: Bold;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+text-align: left;
+text-transform: capitalize;
+padding-bottom: 16px;
+padding-top: 16px;
+}
+.card-medium .p3{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.card-small .c4{
+font-style: Bold;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.card-small .p4{
+font-style: Regular;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.card{
+    background-color: #1A0B2E;
+    color: white;
+}
+.card .heading{
+ font-style: Bold;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+text-align: center;
+text-transform: capitalize;
+padding-top: 120px; 
 }
 
 
