@@ -379,6 +379,45 @@ line-height: 58px;
 text-align: center;
 text-transform: capitalize;
 padding-top: 120px; 
+padding-bottom: 40px;
 }
+.card .card-container{
+    width: 72%;
+    max-width: 1140px;
+    margin: 0px auto;
 
+}
+.card .card-container .card-skill{
+
+    display: flex;
+    gap:30px;
+}
+.card-container .card-skill .s1{
+    /* border: 2px solid red; */
+    max-width: 380px;
+    border-radius: 24px 24px 0px 0px;
+}
+.card-skill h3{
+font-style: Bold;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+padding: 24px 24px 12px 24px;
+}
+.card-skill p{
+    padding-right: 24px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+font-style: Regular;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.card-skill h5{
+    padding-left: 24px;
+}
 
