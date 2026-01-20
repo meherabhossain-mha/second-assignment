@@ -18,6 +18,7 @@ nav{
     align-items: center;
 padding: 16px 80px 16px 80px;
      background-color: #1A0B2E; 
+         width: 1520px;
 }
 nav .menu{
         display: flex;
@@ -51,7 +52,7 @@ justify-content: flex-start;
 }
 #banner{
     background-image: url(../assets/hero-bg.png);
-    width: 1540px;
+    width: 1520px;
 height: 760px;
 background-size: cover;
 background-repeat: no-repeat;
@@ -161,7 +162,7 @@ text-transform: capitalize;
 }
 #about{
     background-color:#1A0B2E ;
-  
+  width: 1520px;
 }
 
 .writing h1{
@@ -236,13 +237,16 @@ text-transform: capitalize;
      background: rgba(35, 14, 61, 1);
     padding: 50px; 
     color: white;
+      width: 1520px;
+
 }
 .feature-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr); 
   grid-gap: 20px; 
-  max-width: 1200px;
+   max-width: 1200px; 
   margin: 0 auto;
+  width: 1520px;
 
 }
 
@@ -378,6 +382,8 @@ text-align: left;
 .card{
     background-color: #1A0B2E;
     color: white;
+      width: 1520px;
+
 }
 .card .heading{
  font-style: Bold;
@@ -433,6 +439,8 @@ text-align: left;
     background-color: #1A0B2E; 
     color: #FFFFFF; 
     padding-bottom: 120px;
+      width: 1520px;
+
   
 }
 #alex .host {
@@ -501,6 +509,8 @@ height: 412px;
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
+  width: 1520px;
+
     }
     #bg-image .logo img{
         justify-content: center;
